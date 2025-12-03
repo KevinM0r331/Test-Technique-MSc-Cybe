@@ -1,0 +1,79 @@
+PS C:\Users\Administrateur> C:\Scripts\Add_Users.ps1
+Lecture du fichier CSV en cours...
+[OK] Utilisateur créé : MARCELLINE ALEXANDRE (m.alexandre)
+   -> Groupe créé : Animation
+   -> Ajouté au groupe Animation
+[OK] Utilisateur créé : ISABELLE ARAGON (i.aragon)
+   -> Ajouté au groupe Animation
+[OK] Utilisateur créé : MARINA AVARO (m.avaro)
+   -> Groupe créé : As
+   -> Ajouté au groupe As
+   -> Groupe créé : Médical
+   -> Ajouté au groupe Médical
+[OK] Utilisateur créé : ISABELLE BERNARD (i.bernard)
+   -> Ajouté au groupe As
+   -> Ajouté au groupe Médical
+[OK] Utilisateur créé : STEPHANE BOUFFIER (s.bouffier)
+   -> Groupe créé : ASH
+   -> Ajouté au groupe ASH
+   -> Groupe créé : Hébergement
+   -> Ajouté au groupe Hébergement
+[OK] Utilisateur créé : FATIHA BOUZIANE (f.bouziane)
+   -> Groupe créé : cadre de santé
+   -> Ajouté au groupe cadre de santé
+   -> Groupe créé : Cadres
+   -> Ajouté au groupe Cadres
+   -> Ajouté au groupe Médical
+[OK] Utilisateur créé : CHANTAL CARLIER (c.carlier)
+   -> Groupe créé : Comptable
+   -> Ajouté au groupe Comptable
+   -> Groupe créé : Administratif
+   -> Ajouté au groupe Administratif
+[OK] Utilisateur créé : MARC THILLOT (m.thillot)
+   -> Groupe créé : Directeur
+   -> Ajouté au groupe Directeur
+   -> Ajouté au groupe Cadres
+   -> Ajouté au groupe Hébergement
+   -> Groupe créé : Technique
+   -> Ajouté au groupe Technique
+   -> Ajouté au groupe Administratif
+   -> Ajouté au groupe Animation
+[OK] Utilisateur créé : CAROLE GALLIEN (c.gallien)
+   -> Groupe créé : Maîtresse de Maison
+   -> Ajouté au groupe Maîtresse de Maison
+   -> Ajouté au groupe Cadres
+   -> Ajouté au groupe Hébergement
+[OK] Utilisateur créé : PATRICIA GRIVEAUX (p.griveaux)
+   -> Groupe créé : Médecin
+   -> Ajouté au groupe Médecin
+   -> Ajouté au groupe Cadres
+   -> Ajouté au groupe Médical
+[OK] Utilisateur créé : SILVANIA LARGUIER (s.larguier)
+   -> Groupe créé : Psychologue
+   -> Ajouté au groupe Psychologue
+   -> Ajouté au groupe Cadres
+   -> Ajouté au groupe Médical
+[OK] Utilisateur créé : OPHYLANADRA MALAURE (o.malaure)
+   -> Ajouté au groupe ASH
+   -> Ajouté au groupe Hébergement
+[OK] Utilisateur créé : MYRIAM PRATABUY (m.pratabuy)
+   -> Groupe créé : Secrétaire
+   -> Ajouté au groupe Secrétaire
+   -> Ajouté au groupe Administratif
+[OK] Utilisateur créé : OIFAA SAHTIT (o.sahtit)
+   -> Groupe créé : IDE
+   -> Ajouté au groupe IDE
+   -> Ajouté au groupe Médical
+[OK] Utilisateur créé : GLADYS SALVADOR (g.salvador)
+   -> Ajouté au groupe IDE
+   -> Ajouté au groupe Médical
+[OK] Utilisateur créé : EMILE SCHNEIDER (e.schneider)
+   -> Ajouté au groupe Technique
+   -> Ajouté au groupe Cadres
+[OK] Utilisateur créé : VERONIQUE VIGNOLO (v.vignolo)
+   -> Ajouté au groupe Animation
+   -> Ajouté au groupe Cadres
+   -> Ajouté au groupe Hébergement
+   -> Ajouté au groupe Administratif
+Terminé !
+PS C:\Users\Administrateur>
